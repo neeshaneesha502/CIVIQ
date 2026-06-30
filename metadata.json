@@ -1,0 +1,6 @@
+{
+  "name": "CIVIQ - Community Hero",
+  "description": "An AI-powered civic issue reporting platform for Bengaluru, India, built for the Google Vibe2Ship Hackathon. It routes issues to different responders based on severity: volunteers, local fixers, or BBMP/government officials.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
